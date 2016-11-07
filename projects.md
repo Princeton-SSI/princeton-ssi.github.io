@@ -12,4 +12,4 @@ permalink: /projects/
 ## Past Projects
 
 * Digital customer engagement platform for [Solstice Initiative](http://solstice.us/)
-* Contributions to the [Princeton Energy Heatmap] (http://fac220l-heatmap.princeton.edu/)
+* Contributions to the [Princeton Energy Heatmap](http://fac220l-heatmap.princeton.edu/)
