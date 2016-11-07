@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -40,4 +40,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+#ssi-header {
+    color: #008fb3
 }
